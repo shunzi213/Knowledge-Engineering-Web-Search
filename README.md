@@ -1,2 +1,2 @@
 # Knowledge-Engineering-Web-Search
-Develop a web system based on knowledge map
+Developing a Publication Search and Recommendation System Based on Knowledge Map
