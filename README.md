@@ -1,6 +1,9 @@
 # Knowledge-Engineering-Web-Search
 Developing a Publication Search and Recommendation System Based on Knowledge Map
 
+基于知识图谱的出版物检索和推荐系统
+By时启顺组
+
 主页面为 index.html
 通过主页面链接到其他三个html文件，也可以直接进入另外三个具体查询的网页
 
